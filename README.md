@@ -22,12 +22,7 @@ Features :
 - [x] Share Article with Image and Description
 
 # Screenshots
-
-<div>
-	<img src="./screenshots/1.jpg" width= 32%>
-	<img src="./screenshots/2.jpg" width= 32%>
-	<img src="./screenshots/3.jpg" width= 32%>
-</div>
+<img src="./screenshots/1.jpg" width= 32%><img src="./screenshots/2.jpg" width= 32%><img src="./screenshots/3.jpg" width= 32%>
 
 # Plugins
 
