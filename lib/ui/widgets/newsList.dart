@@ -250,7 +250,7 @@ class _NewsListState extends State < NewsList > {
               ),
             ),
           ),
-          if(widget.sources.isNotEmpty) ...[
+          if(widget.sources != null) ...[
             Divider(),
             SingleChildScrollView(
               physics: ClampingScrollPhysics(),
