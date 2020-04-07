@@ -24,9 +24,9 @@ Features :
 # Screenshots
 
 <p>
-	<img src="screenshots/1.jpg" style="border-radius: 15px; width: 30%">
-	<img src="screenshots/2.jpg" style="border-radius: 15px; width: 30%">
-	<img src="screenshots/3.jpg" style="border-radius: 15px; width: 30%">
+	<img src="screenshots/1.jpg" style="border-radius: 15px; width: 250px">
+	<img src="screenshots/2.jpg" style="border-radius: 15px; width: 250px">
+	<img src="screenshots/3.jpg" style="border-radius: 15px; width: 250px">
 </p>
 
 # Plugins
