@@ -23,11 +23,11 @@ Features :
 
 # Screenshots
 
-<p>
+<div>
 	<img src="screenshots/1.jpg" style="border-radius: 15px;" width= 32%>
 	<img src="screenshots/2.jpg" style="border-radius: 15px;" width= 32%>
 	<img src="screenshots/3.jpg" style="border-radius: 15px;" width= 32%>
-</p>
+</div>
 
 # Plugins
 
